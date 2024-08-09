@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(12, 12, 53);
+    color: white;
+    font-family: 'Poppins',sans-serif;
+
+}
+nav{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(61, 61, 97);
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+
+}
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover{
+    color: antiquewhite;
+    font-size: 1.01rem;
+
+}
+
+.left{
+    font-size: 1.5rem;
+}
+.firstsection{
+    display: flex;
+    justify-content: space-around;
+    margin: 75px 0;
+    align-items: center;
+}
+.firstsection div>{
+    width: 30%;
+}
+.leftsection{
+    /* background-color: red; */
+    font-size: 3rem;
+    margin: 70px ;
+}
+.rightsection img{
+    /* background-color: red; */
+    width: 80%;
+    margin: 50px 0;
+    
+}
+.spancolor{
+    color: blueviolet;
+}
+
+#element{
+    color: rgb(116, 186, 91);
+}
+
+.secondsection{
+    max-width: 80vw;
+    margin: auto;
+    height: 80vh;
+    
+}
+main hr{
+    border: 0;
+    
+    background-color: #b794b8;
+    height: 1.2px;
+    margin: 60px 84px;
+}
+
+.secondsection h1{
+    font-size: 1.9rem;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.secondsection .box{
+    background: white;
+    width: 80vw;
+    height: 2px;
+    margin: 56px 0;
+    display: flex;
+}
+.secondsection .vertical{
+    height: 93px;
+    background-color: white;
+    width: 1px;
+    margin: 0 100px;
+}
+.image-top{
+    width: 50px;
+    position: relative;
+    top: -55px;
+    left: 70px;
+}
+.vertical-title{
+    position: relative;
+    right: -15px;
+    top: -50px;
+    color: lightcyan;
+    width: 170px;
+
+}
+.vertical-desc{
+    position: relative;
+    top: -50px;
+    left: 15px;
+    width: 180px;
+    font-size: 7px;
+    color: mediumspringgreen;
+
+}
+footer{
+    background-color: #364558;
+    display: flex;
+    height: 100px;
+}
+.footer{
+    display: flex;
+    padding: 20px 120px ;
+    /* justify-content: center; */
+}
+.footer ul{
+    list-style: none;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-left: 104px;
+    display: flex;
+}
+
+ .footer > div{
+    width: 370px;
+    margin: auto;
+ }
