@@ -54,6 +54,15 @@ nav ul li a:hover{
     font-size: 3rem;
     margin: 70px ;
 }
+.leftsection .btn{
+    background: #300330;
+    padding: 7px;
+    color: whitesmoke;
+    border: 2px solid;
+    border-radius: 7px;
+    font-size: 20px;
+    cursor: pointer;
+}
 .rightsection img{
     /* background-color: red; */
     width: 80%;
