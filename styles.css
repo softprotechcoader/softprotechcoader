@@ -55,6 +55,7 @@ nav ul li a:hover{
     margin: 70px ;
 }
 .leftsection .btn{
+    /* text-decoration: none; */
     background: #300330;
     padding: 7px;
     color: whitesmoke;
@@ -62,7 +63,18 @@ nav ul li a:hover{
     border-radius: 7px;
     font-size: 20px;
     cursor: pointer;
+    
+    
 }
+a {
+    text-decoration: none; /* Removes the underline */
+    color: #edf4fb; /* Sets the text color */
+   
+}
+
+
+
+
 .rightsection img{
     /* background-color: red; */
     width: 80%;
