@@ -42,3 +42,27 @@ nav ul li a:hover{
 }
 
 /* ********************************************************************** */
+
+/* ********************Footer Part********************************* */
+footer{
+    background-color: #364558;
+    display: flex;
+    height: 100px;
+}
+.footer{
+    display: flex;
+    padding: 20px 120px ;
+    /* justify-content: center; */
+}
+.footer ul{
+    list-style: none;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-left: 104px;
+    display: flex;
+}
+
+ .footer > div{
+    width: 370px;
+    margin: auto;
+ }
