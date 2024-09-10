@@ -43,6 +43,31 @@ nav ul li a:hover{
 
 /* ********************************************************************** */
 
+h1{
+    margin: 16px 151px;
+}
+p{
+    text-align: center;
+    padding: 30px;
+    text-decoration: auto;
+}
+.follow{
+    align-items: center;
+    /* margin: 0px 0px; */
+    text-align: center;
+    display: grid;
+    padding: 20px;
+}
+
+   .follow a{
+        text-decoration: none;
+        color: whitesmoke;
+        align-items: center;
+        padding: 16px;
+    
+    }
+
+
 /* ********************Footer Part********************************* */
 footer{
     background-color: #364558;
