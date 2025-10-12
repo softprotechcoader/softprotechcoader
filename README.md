@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# � Hi, I'm @softprotechcoader
+# 👋 Hi, I'm Ayush Vaibhav
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+softprotechcoader;Full+Stack+Developer...;Angular+Developer...;Java+Spring+Boot+Developer..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Ayush+Vaibhav;Full+Stack+Developer...;Angular+Developer...;Java+Spring+Boot+Developer..."/>
 </div>
 
 ## 🎓 About Me 
