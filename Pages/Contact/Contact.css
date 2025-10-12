@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* ***********************BODY************************ */
+body {
+    background-color: rgb(12, 12, 53);
+    color: white;
+    font-family: 'Poppins',sans-serif;
+
+}
+/* ******************************************************************** */
+/* ***************************NavBar & Navigation************************************ */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    background-color: rgb(61, 61, 97);
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover{
+    color: antiquewhite;
+    font-size: 1.01rem;
+
+}
+.left{
+    font-size: 1.5rem;
+}
+
+/* ********************************************************************** */
+
+h1{
+    margin: 16px 151px;
+}
+p{
+    text-align: center;
+    padding: 30px;
+    text-decoration: auto;
+}
+.follow{
+    align-items: center;
+    /* margin: 0px 0px; */
+    text-align: center;
+    display: grid;
+    padding: 20px;
+}
+
+   .follow a{
+        text-decoration: none;
+        color: whitesmoke;
+        align-items: center;
+        padding: 16px;
+    
+    }
+
+
+/* ********************Footer Part********************************* */
+footer{
+    background-color: #364558;
+    display: flex;
+    height: 100px;
+}
+.footer{
+    display: flex;
+    padding: 20px 120px ;
+    /* justify-content: center; */
+}
+.footer ul{
+    list-style: none;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-left: 104px;
+    display: flex;
+}
+
+ .footer > div{
+    width: 370px;
+    margin: auto;
+ }

@@ -1,69 +1,68 @@
-# 👨‍💻 Softprotech Coader
+# � Hi, I'm @softprotechcoader
 
-## 🚀 About Me
-I am a passionate software developer dedicated to creating innovative solutions and contributing to the tech community. With a focus on quality and user experience, I strive to build applications that make a difference.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+softprotechcoader;Full+Stack+Developer...;Angular+Developer...;Java+Spring+Boot+Developer..."/>
+</div>
 
-## 💼 Skills
+## 🎓 About Me 
 
-### Programming Languages
-- JavaScript/TypeScript
-- Python
-- Java
-- C++
-- PHP
+- 🔭 I'm currently working as a **Full Stack Developer**
+- 🌱 Specialized in **Java (Spring Boot) backend + Angular frontend**
+- 💼 Expert in **Azure DevOps** and **Microservices Architecture**
+- 📊 Building **Enterprise Solutions** and **Cloud Applications**
+- 🎯 Creating scalable and efficient solutions for complex business problems
 
-### Frontend Development
-- React.js
-- Vue.js
-- HTML5
-- CSS3/SASS
-- Bootstrap
+## � Tech Stack
 
-### Backend Development
-- Node.js
-- Express.js
-- Django
-- Laravel
-- Spring Boot
+### Languages & Frameworks
+- Java & Spring Boot
+- Angular
+- TypeScript/JavaScript
+- SQL
 
-### Database
-- MongoDB
-- MySQL
-- PostgreSQL
-- Redis
+### Cloud & DevOps
+- Azure DevOps
+- Microservices Architecture
+- Azure SQL Integration
+- CI/CD Pipelines
+- JWT-based Authentication
 
-### DevOps & Tools
-- Git
+### Tools & Technologies
+- SQL Server
+- Azure Services
+- Git & GitHub
+- Maven/Gradle
 - Docker
-- AWS
-- CI/CD
-- Linux
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### Project 1: [Project Name]
-- Brief description of the project
-- Technologies used
-- Key features
-- [Link to repository]
+### Revenue Forecast Portal
+- Responsive dashboard with tab-based navigation
+- CRUD operations with search & filter features
+- Excel import/export functionality
+- Role-based authentication (EDL Management)
+- Azure SQL integration
 
-### Project 2: [Project Name]
-- Brief description of the project
-- Technologies used
-- Key features
-- [Link to repository]
+### Empire Batch Processing System
+- Migrated Spring Batch from Java 8 to Java 21
+- Optimized batch workflows
+- Implemented Azure DevOps CI/CD pipelines
+- Set up Nexus for dependency management
+- Refactored legacy code & improved performance
 
-### Project 3: [Project Name]
-- Brief description of the project
-- Technologies used
-- Key features
-- [Link to repository]
+## 🎯 Skills Mind Map
+![Skills Mind Map](skills-mindmap.png)
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softprotechcoader&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=softprotechcoader&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softprotechcoader&layout=compact&theme=radical"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softprotechcoader&layout=compact&theme=radical)
+## 🏆 Certifications
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft SQL Server Certification
 
 ## 🤝 Connect with Me
 
