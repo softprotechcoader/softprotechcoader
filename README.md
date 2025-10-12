@@ -4,36 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Ayush+Vaibhav;Full+Stack+Developer...;Angular+Developer...;Java+Spring+Boot+Developer..."/>
 </div>
 
-```mermaid
-mindmap
-  root((Ayush Vaibhav))
-    Software Engineer | Cognizant
-      Skills
-        Angular Developer
-        Java & Spring Boot
-        SQL Server
-        Azure DevOps
-        Microservices Architecture
-        Azure SQL integration
-        JWT-based authentication
-      Projects
-        Revenue Forecast Portal
-          CRUD operations
-          Tab-based navigation
-          Responsive dashboard
-          Search & filter features
-          Excel import/export
-        Empire Batch Processing System
-          Migrated Spring Batch (Java 8 → Java 21)
-          Updated dependencies in POM
-          Refactored legacy code
-          Optimized batch workflows
-          Azure DevOps CI/CD pipelines
-          Nexus for dependency management
-      Certifications & Training
-        Microsoft Certified: Azure Fundamentals (AZ-900)
-        Microsoft SQL Server
-```
+<img align="center" alt="Skills Mind Map" src="./skills-mindmap.png" />
 
 ## 🎓 About Me 
 
