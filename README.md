@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Ayush+Vaibhav;Full+Stack+Developer...;Angular+Developer...;Java+Spring+Boot+Developer..."/>
 </div>
 
-<img align="center" alt="Skills Mind Map" src="./skills-mindmap.png" />
+<div align="center">
+  <img src="https://github.com/softprotechcoader/softprotechcoader/raw/main/skills-mindmap.png" alt="Skills Mind Map" width="100%">
+</div>
 
 ## 🎓 About Me 
 
