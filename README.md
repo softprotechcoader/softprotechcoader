@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Ayush+Vaibhav;Full+Stack+Developer...;Angular+Developer...;Java+Spring+Boot+Developer..."/>
 </div>
 
-<div align="center">
-  <img src="https://i.ibb.co/FqDfwwj/skills-mindmap.png" alt="Skills Mind Map" width="100%">
-</div>
+
 
 <img width="1848" height="729" alt="image" src="https://github.com/user-attachments/assets/7086b7f1-41e6-4409-a314-3a16916a7fa6" />
 
