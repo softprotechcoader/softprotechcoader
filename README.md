@@ -8,6 +8,9 @@
   <img src="https://i.ibb.co/FqDfwwj/skills-mindmap.png" alt="Skills Mind Map" width="100%">
 </div>
 
+<img width="1848" height="729" alt="image" src="https://github.com/user-attachments/assets/7086b7f1-41e6-4409-a314-3a16916a7fa6" />
+
+
 ## 🎓 About Me 
 
 - 🔭 I'm currently working as a **Full Stack Developer**
