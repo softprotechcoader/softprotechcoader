@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👋 Hi, I'm Ayush Vaibhav
 
 <div align="center">
@@ -93,7 +92,7 @@ Other        2 hrs 55 mins   ███░░░░░░░░░░░░░   
 
 ---
 ⭐️ From [softprotechcoader](https://github.com/softprotechcoader)
-=======
+
 ## Hi there 👋
 
 <!--
