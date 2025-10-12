@@ -93,7 +93,7 @@ Other        2 hrs 55 mins   ███░░░░░░░░░░░░░   
 ---
 ⭐️ From [softprotechcoader](https://github.com/softprotechcoader)
 
-## Hi there 👋
+## 
 
 <!--
 **softprotechcoader/softprotechcoader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
