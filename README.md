@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/softprotechcoader/softprotechcoader/raw/main/skills-mindmap.png" alt="Skills Mind Map" width="100%">
+  <img src="https://raw.githubusercontent.com/softprotechcoader/softprotechcoader/main/skills-mindmap.png" alt="Skills Mind Map" width="100%">
 </div>
 
 ## 🎓 About Me 
